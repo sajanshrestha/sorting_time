@@ -9,5 +9,5 @@
 import Foundation
 
 struct NewView {
-    
+    // just a coment
 }
