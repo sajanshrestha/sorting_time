@@ -18,6 +18,7 @@
 		A11A8B27236D2775003E410A /* CompareViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A11A8B26236D2775003E410A /* CompareViewController.swift */; };
 		A1A985DE236E0023002ECE88 /* AlgorithmBank.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1A985DD236E0023002ECE88 /* AlgorithmBank.swift */; };
 		A1A985E0236E080D002ECE88 /* PopulateView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1A985DF236E080D002ECE88 /* PopulateView.swift */; };
+		A1D9D0042572E4650051A9F1 /* NewView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A1D9D0032572E4650051A9F1 /* NewView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -34,6 +35,7 @@
 		A11A8B26236D2775003E410A /* CompareViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CompareViewController.swift; sourceTree = "<group>"; };
 		A1A985DD236E0023002ECE88 /* AlgorithmBank.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AlgorithmBank.swift; sourceTree = "<group>"; };
 		A1A985DF236E080D002ECE88 /* PopulateView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PopulateView.swift; sourceTree = "<group>"; };
+		A1D9D0032572E4650051A9F1 /* NewView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NewView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -74,6 +76,7 @@
 				A100653F2391689A00C4B997 /* Algorithm.swift */,
 				A1A985DD236E0023002ECE88 /* AlgorithmBank.swift */,
 				A100653D239152E400C4B997 /* Constants.swift */,
+				A1D9D0032572E4650051A9F1 /* NewView.swift */,
 				A11A8B18236D2721003E410A /* Assets.xcassets */,
 				A11A8B1D236D2721003E410A /* LaunchScreen.storyboard */,
 				A11A8B20236D2721003E410A /* Info.plist */,
@@ -164,6 +167,7 @@
 				A11A8B27236D2775003E410A /* CompareViewController.swift in Sources */,
 				A10065402391689A00C4B997 /* Algorithm.swift in Sources */,
 				A11A8B13236D2720003E410A /* AppDelegate.swift in Sources */,
+				A1D9D0042572E4650051A9F1 /* NewView.swift in Sources */,
 				A1A985DE236E0023002ECE88 /* AlgorithmBank.swift in Sources */,
 				A1A985E0236E080D002ECE88 /* PopulateView.swift in Sources */,
 				A100653E239152E400C4B997 /* Constants.swift in Sources */,
