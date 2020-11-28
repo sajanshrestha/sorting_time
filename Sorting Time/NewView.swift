@@ -10,4 +10,6 @@ import Foundation
 
 struct NewView {
     // just a coment
+    
+    var number = 12
 }
